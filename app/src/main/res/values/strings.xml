@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pop Quiz</string>
+    <string name="first_question">1. Which American singer partner The Chainsmokers on the single \"Closer\"?</string>
+    <string name="first_q_first_answer">Halsey</string>
+    <string name="first_q_second_answer">SIA</string>
+    <string name="first_q_third_answer">Pink</string>
+    <string name="second_question">2. Which of the following is an Ed Sheeran song?</string>
+    <string name="second_q_first_answer">Perfect</string>
+    <string name="second_q_second_answer">Rich love</string>
+    <string name="second_q_third_answer">Bloodstream</string>
+    <string name="third_question">3. Complete the following lyrics from \"Him &amp; I\" \n\"Cross my heart, hope to die \nTo my lover, I\'d never ...\ :"</string>
+    <string name="third_question_answer">lie</string>
+    <string name="fourth_question">4. \"I like me better\" is a single of which American singer?</string>
+    <string name="fourth_q_first_answer">Rihanna</string>
+    <string name="fourth_q_second_answer">Selena Gomez</string>
+    <string name="fourth_q_third_answer">Lauv</string>
+    <string name="fifth_question">5. Which of the following songs and artists were the most popular in 2017?</string>
+    <string name="fifth_q_first_answer">Kygo - It ain\'t me</string>
+    <string name="fifth_q_second_answer">Zayn Malik - Dusk Till Dawn</string>
+    <string name="fifth_q_third_answer">Pink - What About Us</string>
+
+</resources>
